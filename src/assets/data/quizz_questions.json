@@ -1,0 +1,56 @@
+{
+  "title":"Veja quem você seria em Tico e Teco",
+  "questions":[
+    {
+      "id":1,
+      "question": "Você é: ",
+      "options":[
+        {"id": 1, "name":"Esperto", "alias":"A"},
+        {"id": 2, "name":"Avoado", "alias":"B"},
+        {"id": 3, "name":"Audacioso", "alias":"A"},
+        {"id": 4, "name":"Medroso", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Você prefere:",
+      "options":[
+        {"id": 1, "name":"Aventura", "alias":"A"},
+        {"id": 2, "name":"Dormir", "alias":"B"},
+        {"id": 3, "name":"Ficar em casa", "alias":"B"},
+        {"id": 1, "name":"Tentar algo", "alias":"A"}
+
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual seu maior medo quando sai da toca ?",
+      "options":[
+        {"id": 1, "name":"Não conseguir comida", "alias":"B"},
+        {"id": 2, "name":"Não ter historia pra contar", "alias":"A"},
+        {"id": 3, "name":"FIcar entediado", "alias":"A"},
+        {"id": 4, "name":"Não ter lugar pra dormir", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual o seu maior foco ?",
+      "options":[
+        {"id": 1, "name":"Acumular muita comida", "alias":"A"},
+        {"id": 2, "name":"Dormir o quando der", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual o seu apelido ?",
+      "options":[
+        {"id": 1, "name":"O Audacioso", "alias":"A"},
+        {"id": 2, "name":"Baiano", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria o Teco!",
+    "B": "Você muito provavelmente seria o Tico!"
+  }
+}
